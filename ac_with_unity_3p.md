@@ -18,3 +18,7 @@ To resolve, use:
 
 This script demonstrates one way to add support for Unity's new Input System. It works by defining Input Actions directly within a component, but it can be adapted to work with an asset file instead.
 
+There was a warning about the UI_EventSystem that was added to support the on-screen touch controls. The UI_EventSystem was removed and everything appeared to continue to work okay.
+
+
+
