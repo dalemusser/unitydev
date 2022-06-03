@@ -1,4 +1,4 @@
-Do the setup to create a Unity third person game.
+Do the setup to create a Unity third person game but no mobile...base 3D as if building for desktop or web.
 
 [unity_third_person.md](unity_third_person.md)
 
